@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/bin/Debug/net6.0/Week9Lists
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/bin/Debug/net6.0/Week9Lists.deps.json
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/bin/Debug/net6.0/Week9Lists.runtimeconfig.json
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/bin/Debug/net6.0/Week9Lists.dll
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/bin/Debug/net6.0/Week9Lists.pdb
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.dll
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/refint/Week9Lists.dll
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.pdb
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/Week9Lists.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week9Lists/Week9Lists/obj/Debug/net6.0/ref/Week9Lists.dll
